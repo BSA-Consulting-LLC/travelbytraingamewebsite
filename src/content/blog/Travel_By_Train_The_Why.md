@@ -1,6 +1,6 @@
 ---
 title: "Travel by Train: The Why"
-description: "Lorem ipsum dolor sit amet"
+description: "Why we need video games and trains."
 pubDate: "June 26 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
