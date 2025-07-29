@@ -1,5 +1,5 @@
 ---
-title: "All Aboard! Announcing Travel By Train: A Colorado Rail Adventure!"
+title: "All Aboard! Announcing Travel By Train: Patreon!"
 description: "Help build Travel By Train"
 pubDate: "July 29 2025"
 heroImage: "/travelbytraininsidetrain.png"
