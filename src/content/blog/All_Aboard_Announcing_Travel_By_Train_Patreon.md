@@ -4,7 +4,7 @@ description: "Help build Travel By Train"
 pubDate: "July 29 2025"
 heroImage: "/travelbytraininsidetrain.png"
 ---
-Hello everyone, and welcome! Were incredibly excited to be launching the [Patreon page](https://patreon.com/TravelByTrainGame) This isn't just any game; it's a passion project aimed at bringing the beauty, history, and vital importance of passenger rail to life, starting right here in the stunning state of Colorado.
+Hello everyone, and welcome! Were incredibly excited to be launching the [Patreon page](https://patreon.com/TravelByTrainGame)! This isn't just any game; it's a passion project aimed at bringing the beauty, history, and vital importance of passenger rail to life, starting right here in the stunning state of Colorado.
 
 ## What is Travel By Train?
 Imagine exploring Colorado's breathtaking landscapes from the comfort of a train, experiencing its rich history and vibrant culture, all while embarking on engaging challenges and discoveries. That's the essence of Travel By Train. This game will immerse you in the world of Colorado's railways, allowing you to:
