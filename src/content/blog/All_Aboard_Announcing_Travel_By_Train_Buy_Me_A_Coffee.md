@@ -10,8 +10,6 @@ Hello everyone, and welcome! Were incredibly excited to be launching the [Buy Me
 ## Join the Crew: Buy us a coffee!
 Currently, every aspect of Travel By Train's development – from research and design to coding and asset creation – is being funded entirely by me. This is a massive undertaking, and to truly realize the full potential of this game and expand its reach, I need your support.
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="travelbytraingame" data-description="Support me on Buy me a coffee!" data-message="All Aboard! Join the Crew!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
 By becoming a Coffee member, you'll be directly contributing to the development of Travel By Train and helping me bring this unique vision to life. Your contributions will help with:
 
 - Software development
