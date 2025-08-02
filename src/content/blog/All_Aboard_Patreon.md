@@ -1,10 +1,10 @@
 ---
-title: "All Aboard! Announcing Travel By Train: A Colorado Rail Adventure!"
 title: "All Aboard! Announcing Travel By Train: Patreon!"
 description: "Help build Travel By Train"
 pubDate: "July 29 2025"
 heroImage: "/travelbytraininsidetrain.png"
 ---
+
 Hello everyone, and welcome! Were incredibly excited to be launching the [Patreon page](https://patreon.com/TravelByTrainGame) This isn't just any game; it's a passion project aimed at bringing the beauty, history, and vital importance of passenger rail to life, starting right here in the stunning state of Colorado.
 
 ## Join the Crew: Become a Patreon Member!
