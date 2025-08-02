@@ -2,7 +2,7 @@
 title: "All Aboard! Announcing Travel By Train: A Colorado Rail Adventure!"
 title: "All Aboard! Announcing Travel By Train: Patreon!"
 description: "Help build Travel By Train"
-pubDate: "July 29 2025"
+pubDate: "August 1 2025"
 heroImage: "/travelbytraininsidetrain.png"
 ---
 Hello everyone, and welcome! Were incredibly excited to be launching our [Buy Me a Coffee](https://buymeacoffee.com/travelbytraingame) page as a option to give besides our Patreon page! 
